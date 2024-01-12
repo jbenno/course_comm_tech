@@ -7,16 +7,10 @@ This course will focus on the role and application of communication technologies
 
 You may find recorded lectures of a previous version of this class on youtube: [videos.md](/files/videos.md)
 
-[Additional information on assignments, grading, administrative matters](/files/Additional-information.md)  
 [Bibliography of all literature used](/files/Bibliography.md)
 
 ### Readings
-- Briggs, Asa, and Peter Burke. A Social History of the Media: From Gutenberg to the Internet. 3rd ed. Cambridge, UK/ Malden, MA: Polity, 2009.
-- Evans, Claire Lisa. Broad Band: The Untold Story of the Women Who Made the Internet. New York, New York: Portfolio/Penguin, 2018.
-- Gleick, James. The Information: A History, a Theory, a Flood. 1st Vintage Books ed., 2012. New York: Vintage Books, 2012.
-- Robinson, Andrew. The Story of Writing. 1st paperback ed. New York: Thames and Hudson, 1999.
-- Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven: Yale University Press, 2017. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4849027.
-- Wu, Tim. The Master Switch: The Rise and Fall of Information Empires. Reprint edition. New York: Vintage, 2011.
+Readings will be assigned for each week.
 
 ## Schedule
 *Subject to modification and clarification*
