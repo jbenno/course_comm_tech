@@ -1,15 +1,11 @@
-# Communication and Technology
+# Information and Communication and Technologies
 **Instructor: Joerg Blumtritt**  
-**Course Number: IM-UH 1012**  
 
 From the earliest traces of art to technologies existing only as speculative design, this course will explore the development, reaction, and impact of developments and inventions in communication. Did techniques like painting, music, or writing, and "inventions" like the printing, the telegraph or television shape people's lives, or have they been formed by the existing cultures? How do forces of economics and culture promote or inhibit inventing, accessing, and profiting from technology? Can we envision technologies beyond the norms defined by the factual conditions of our present?
 
 This course will focus on the role and application of communication technologies with a transnational cross-cultural lens. Beginning in ancient times and making our way to the present, we will analyze how, why, and to what effect innovations were adopted both geographically and culturally and deconstruct how this history is told to us. Readings and discussion will cover history and historiography, the philosophy of technology, science and technology studies, media theory, and creative application. Weekly writing assignments will traverse a variety of media forms and contexts.
 
-In an analysis paper, students will apply a lens of critical thinking to historical accounts related to their own individual cultures and backgrounds. A final project will challenge students to speculate and produce a vision of their own transformative innovation in this area.
-
-**The lectures will be recorded and made available to students asynchronously. Student presentations and student lead lectures can also be submitted as recordings. For discussions and questions, we will use Zoom as well as the forum function in Classes so that everybody can participate independently from their connectivity and time zone.**
-You find the links to the recorded lectures on the lecture's pages and following the links on this overview page: [videos.md](/files/videos.md)
+You may find recorded lectures of a previous version of this class on youtube: [videos.md](/files/videos.md)
 
 [Additional information on assignments, grading, administrative matters](/files/Additional-information.md)  
 [Bibliography of all literature used](/files/Bibliography.md)
@@ -50,5 +46,5 @@ You find the links to the recorded lectures on the lecture's pages and following
 
 
 ***
-<sup>NYU Abu Dhabi ***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+<sup>***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
 
