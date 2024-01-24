@@ -1,4 +1,4 @@
-# Information and Communication and Technologies
+# Information and Communication Technologies
 **Instructor: Joerg Blumtritt**  
 
 From the earliest traces of art to technologies existing only as speculative design, this course will explore the development, reaction, and impact of developments and inventions in communication. Did techniques like painting, music, or writing, and "inventions" like the printing, the telegraph or television shape people's lives, or have they been formed by the existing cultures? How do forces of economics and culture promote or inhibit inventing, accessing, and profiting from technology? Can we envision technologies beyond the norms defined by the factual conditions of our present?
@@ -40,5 +40,5 @@ Readings will be assigned for each week.
 
 
 ***
-<sup>***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
+<sup>***[Information and Communication Technologies](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
 
