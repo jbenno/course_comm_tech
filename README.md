@@ -15,7 +15,7 @@ Readings will be assigned for each week.
 ## Schedule
 *Subject to modification and clarification*
 
-[Spreadsheet with the dates and assignments](https://docs.google.com/spreadsheets/d/10EElPgwd0SA_fW2tWd3AjJ3SswVbAe7kLfOHETJjV4k/edit?usp=sharing)  
+[Spreadsheet with the dates and assignments](https://docs.google.com/spreadsheets/d/1BB6HHULpT9KCe9JpZZn-oI-JxHNpXhhsdp6A8cw8cMM/edit?usp=sharing) 
 
 ### Part I: The story of writing
 #### 0. [Communication](/files/00.md)
