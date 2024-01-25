@@ -18,7 +18,7 @@ Readings will be assigned for each week.
 [Spreadsheet with the dates and assignments](https://docs.google.com/spreadsheets/d/10EElPgwd0SA_fW2tWd3AjJ3SswVbAe7kLfOHETJjV4k/edit?usp=sharing)  
 
 ### Part I: The story of writing
-#### 0. [Introduction](/files/00.md)
+#### 0. [Communication](/files/00.md)
 #### 1. [Technology studies](/files/01.md)
 #### 2. [Orality and literacy](/files/02.md)
 #### 3. [The Alphabet](/files/03.md)
