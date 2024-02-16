@@ -6,6 +6,8 @@ From the earliest traces of art to technologies existing only as speculative des
 This course will focus on the role and application of communication technologies with a transnational cross-cultural lens. Beginning in ancient times and making our way to the present, we will analyze how, why, and to what effect innovations were adopted both geographically and culturally and deconstruct how this history is told to us. Readings and discussion will cover history and historiography, the philosophy of technology, science and technology studies, media theory, and creative application. Weekly writing assignments will traverse a variety of media forms and contexts.
 
 You may find recorded lectures of a previous version of this class on youtube: [videos.md](/files/videos.md)
+Unless stated otherwise, pdf files for the readings can be found in this Google Drive folder:
+ https://drive.google.com/drive/folders/1QTE-LNoBto6VDJ6Majes_LZ9A2kqfk7D?usp=sharing
 
 [Bibliography of all literature used](/files/Bibliography.md)
 
