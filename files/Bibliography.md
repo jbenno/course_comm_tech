@@ -1,6 +1,6 @@
 <sup>[&uarr; Back to course home page](/README.md)</sup>  
 # Bibliography
-Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب). Ars Medica ( Ars Parva ) الصناعة الصغيرة Galen جالينوس With Commentary by Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب) [‎114v] (241/246), 1057. https://www.qdl.qa/en/archive/81055/vdc_100023843404.0x000026.
+- Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب). Ars Medica ( Ars Parva ) الصناعة الصغيرة Galen جالينوس With Commentary by Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب) [‎114v] (241/246), 1057. https://www.qdl.qa/en/archive/81055/vdc_100023843404.0x000026.
 - Adeline Bats, Laurent Bavay, Nathalie Favry, and Claire Somaglino, eds. LES CÉRÉALES DANS LE MONDE ANTIQUE. Actes Du Colloque « Les Céréales Dans Le Monde Antique ». Université Paris-Sorbonne, 2015. http://www.nehet.fr/images/NEHET5/06-NEHET%205-TALLET.pdf.
 - Adorno, Theodor W. Minima Moralia: Reflections from Damaged Life. Radical Thinkers 1. London %3B New York: Verso, 2005.
 - Agamben, Giorgio. What Is an Apparatus?: And Other Essays. Meridian (Stanford, Calif.). Stanford, Calif.: Stanford University Press, 2009.
