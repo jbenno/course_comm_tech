@@ -11,6 +11,9 @@ Unless stated otherwise, pdf files for the readings can be found in this Google 
 
 [Bibliography of all literature used](/files/Bibliography.md)
 
+### Administrative Matters
+Please see the page [Administrative Matters](/files/Administrative.md)
+
 ### Readings
 Readings will be assigned for each week.
 
