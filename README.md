@@ -15,7 +15,22 @@ Unless stated otherwise, pdf files for the readings can be found in this Google 
 Please see the page [Administrative Matters](/files/Administrative.md)
 
 ### Readings
-Readings will be assigned for each week.
+- Briggs, Asa, and Peter Burke. A Social History of the Media: From Gutenberg to the Internet. 3rd ed. Cambridge, UK %3B Malden, MA: Polity, 2009.
+- Crowley, David, and Paul Heyer. Communication in History: Technology, Culture, Society. Old Tappan, UNKNOWN: Taylor & Francis Group, 2010.
+- Dumas, Alexander. ‘The Telegraph’. In The Count of Monte Cristo, translated by Anonymous. Chapman and Hall, 1846. https://en.wikisource.org/wiki/The_Count_of_Monte_Cristo/Chapter_60.
+- Dunne, Anthony, and Fiona Raby. Speculative Everything: Design, Fiction, and Social Dreaming. Cambridge, Massachusetts ; London: The MIT Press, 2013.
+- Dusek, Val. Philosophy of Technology: An Introduction. Malden, MA %3B Oxford: Blackwell Pub, 2006.
+- Errington, Joseph. ‘Colonial Linguistics’. Annual Review of Anthropology 30 (2001): 19–39. https://www.jstor.org/stable/3069207.
+- Evans, Claire Lisa. Broad Band: The Untold Story of the Women Who Made the Internet. New York, New York: Portfolio/Penguin, 2018.
+- Galison, Peter. ‘Ten Problems in History and Philosophy of Science’. Isis 99, no. 1 (2008): 111–24. https://doi.org/10.1086/587536.
+- Grosswiler, Paul. ‘Dispelling the Alphabet Effect’. Canadian Journal of Communication 29, no. 2 (2004). https://doi.org/10.22230/cjc.2004v29n2a1432.
+- Robinson, Andrew. Writing and Script: A Very Short Introduction. Writing and Script: A Very Short Introduction. Oxford University Press, n.d. Accessed 26 April 2020.
+- Sebeok, Thomas A. I Think I Am a Verb More Contributions to the Doctrine of Signs. Topics in Contemporary Semiotics Ser. New York, NY: Springer, 2013.
+- Sebeok, Thomas, A., and Hilmar M. Pabel. Signs: An Introduction to Semiotics. Toronto Studies in Semiotics and Communication. Toronto ; Buffalo: University of Toronto Press, 2001.
+- The J. Paul Getty Museum. ‘The Making of a Medieval Book’, 2003. https://www.getty.edu/art/exhibitions/making/.
+- Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven, UNITED STATES: Yale University Press, 2017.
+
+The specific readings will be assigned for each week.
 
 ## Schedule
 *Subject to modification and clarification*
