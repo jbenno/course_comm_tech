@@ -56,7 +56,7 @@
 - Attendence and participation will add or subtract from this base grade.
 
 ## Other matters
-Please refer to the general rules and guidlines of the college, in particular the Student Handbook.
+Please refer to the general rules and guidelines of the college, in particular the Student Handbook.
 
 
 
