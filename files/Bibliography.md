@@ -1,192 +1,241 @@
 <sup>[&uarr; Back to course home page](/README.md)</sup>  
 # Bibliography
-
-- Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب). Ars Medica ( Ars Parva ) الصناعة الصغيرة Galen جالينوس With Commentary by Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب) [‎114v] (241/246), 1057. https://www.qdl.qa/en/archive/81055/vdc_100023843404.0x000026.
+Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب). Ars Medica ( Ars Parva ) الصناعة الصغيرة Galen جالينوس With Commentary by Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب) [‎114v] (241/246), 1057. https://www.qdl.qa/en/archive/81055/vdc_100023843404.0x000026.
 - Adeline Bats, Laurent Bavay, Nathalie Favry, and Claire Somaglino, eds. LES CÉRÉALES DANS LE MONDE ANTIQUE. Actes Du Colloque « Les Céréales Dans Le Monde Antique ». Université Paris-Sorbonne, 2015. http://www.nehet.fr/images/NEHET5/06-NEHET%205-TALLET.pdf.
 - Adorno, Theodor W. Minima Moralia: Reflections from Damaged Life. Radical Thinkers 1. London %3B New York: Verso, 2005.
 - Agamben, Giorgio. What Is an Apparatus?: And Other Essays. Meridian (Stanford, Calif.). Stanford, Calif.: Stanford University Press, 2009.
-- Alalawi, Nourh. “How Media Covered ‘Arab Spring’ Movement: Comparison between the American Fox News and the Middle Eastern Al Jazeera.” Journal of Mass Communication & Journalism 05 (January 1, 2015). https://doi.org/10.4172/2165-7912.1000281.
-- “Alphabet, n.” In OED Online. Oxford University Press. Accessed May 24, 2020. http://www.oed.com/view/Entry/5693.
-- Alwishah, Ahmed, and Josh Hayes. Aristotle and the Arabic Tradition. Cambridge, UNITED KINGDOM: Cambridge University Press, 2015. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4498749.
-- Ambrosius, Mediolanensis. Opera Varia Mit Sogenanntem Bamberger Schreiberbild - Staatsbibliothek Bamberg Msc.Patr.5. Bamberg: Kloster Michelsberg, mid 12th century. urn:nbn{:de}:bvb:22-dtl-0000025604.
-- Amin, Samir, Russell Moore, and James Membrez. Eurocentrism. New York, UNITED STATES: Monthly Review Press, 2010. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=1107507.
-- Anders, Charlie Jane. Go Ahead, Dream about the Future. Accessed April 16, 2020. https://www.ted.com/talks/charlie_jane_anders_go_ahead_dream_about_the_future.
-- Anne. Friedberg. The Virtual Window: From Alberti to Microsoft. 1st MIT Press pbk. ed. Cambridge, Mass., Cambridge, Mass. %3B London, England: MIT Press, 2009. http://proxy.library.nyu.edu/login?url=http://hdl.handle.net/2027/heb.08244.0001.001.
+- Alalawi, Nourh. ‘How Media Covered “Arab Spring” Movement: Comparison between the American Fox News and the Middle Eastern Al Jazeera’. Journal of Mass Communication & Journalism 05 (1 January 2015). https://doi.org/10.4172/2165-7912.1000281.
+- Alexander Schwan. Floriographie Die Sprachen der Blumen. Boston: BRILL, 2016.
+- Alwishah, Ahmed, and Josh Hayes. Aristotle and the Arabic Tradition. Cambridge, UNITED KINGDOM: Cambridge University Press, 2015.
+- Ambrosius, Mediolanensis. Opera Varia Mit Sogenanntem Bamberger Schreiberbild - Staatsbibliothek Bamberg Msc.Patr.5. Bamberg: Kloster Michelsberg, mid 12th century. urn:nbn:de:bvb:22-dtl-0000025604.
+- Amin, Samir, Russell Moore, and James Membrez. Eurocentrism. New York, UNITED STATES: Monthly Review Press, 2010.
+- Anne. Friedberg. The Virtual Window: From Alberti to Microsoft. 1st MIT Press pbk. ed. Cambridge, Mass., Cambridge, Mass. %3B London, England: MIT Press, 2009.
 - Anonymous. Sumerian Temple Hymn. between circa  and circa 1600 BC date QS:P571,-1500- -00T00:00:00Z/6,P1319,-1800-00-00T00:00:00Z/9,P1326,-1600-00-00T00:00:00Z/9,P1480,Q5727902 (Old Babylonian 1800. Baked clay, 15.3 × 8.5 × 8 cm (6 × 3.3 × 3.1 in). Walters Art Museum. https://commons.wikimedia.org/wiki/File:Babylonian_-_Sumerian_Temple_Hymn_-_Walters_481802_-_View_A.jpg.
 - Aristotle. Politics: Book I: Chapter I. Translated by Rackham. Loeb Classical Library 264. Cambridge, MA: Harvard University Press, 1932. https://www.loebclassics.com/view/aristotle-politics/1932/pb_LCL264.11.xml.
 - Aśoka, Alexander Cunningham. Inscriptions of Asoka. Office of theSuperintendant ofGovernment Printing, 1877. http://archive.org/details/inscriptionsaso00hultgoog.
-- Balla, Satish. “How WhatsApp Helped Turn a Village into a Mob.” BBC News, July 19, 2018, sec. India. https://www.bbc.com/news/world-asia-india-44856910.
-- Barlow, John Perry. “A Declaration of the Independence of Cyberspace.” Electronic Frontier Foundation, February 8, 1996. https://www.eff.org/cyberspace-independence.
+- Balla, Satish. ‘How WhatsApp Helped Turn a Village into a Mob’. BBC News, 19 July 2018, sec. India. https://www.bbc.com/news/world-asia-india-44856910.
+- Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace’. Electronic Frontier Foundation, 2 August 1996. https://www.eff.org/cyberspace-independence.
 - Barthes, Roland. Camera Lucida: Reflections on Photography. Translated by Geoff Dyer. Pbk. ed. New York: Hill and Wang, 2010.
 - Baudrillard, Jean. Simulacra and Simulation. Body, in Theory. Ann Arbor: University of Michigan Press, 1994.
-- Beauchamp, Scott. “How to Send a Message 1,000 Years to the Future.” The Atlantic, February 24, 2015. https://www.theatlantic.com/technology/archive/2015/02/how-to-send-a-message-1000-years-to-the-future/385720/.
+- Beauchamp, Scott. ‘How to Send a Message 1,000 Years to the Future’. The Atlantic, 24 February 2015. https://www.theatlantic.com/technology/archive/2015/02/how-to-send-a-message-1000-years-to-the-future/385720/.
 - Benedetti, Paul, and Nancy DeHart. Forward through the Rearview Mirror: Reflections on and by Marshall McLuhan. 1st ed. Digital Communication. Cambridge, Mass.: MIT Press, 1997.
-- Benjamin, Walter. Gesammelte Schriften. 1. Aufl. Frankfurt am Main: Suhrkamp, 1972. https://catalog.hathitrust.org/Record/000195184?signon=swle:urn:mace:incommon:nyu.edu.
+- Beniger, James R., and Dorothy L. Robyn. ‘Quantitative Graphics in Statistics: A Brief History’. The American Statistician 32, no. 1 (1 February 1978): 1–11. https://doi.org/10.1080/00031305.1978.10479235.
+- Benjamin, Walter. Gesammelte Schriften. 1. Aufl. Frankfurt am Main: Suhrkamp, 1972.
 - ———. The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media. Cambridge, Mass.: Belknap Press of Harvard University Press, 2008.
 - ———. Über Den Begriff Der Geschichte, 1940. https://www.textlog.de/benjamin-begriff-geschichte.html.
-- Berners-Lee, Tim, Robert Cailliau, Ari Loutononen, Henrik Frystyk Nielsen, and Arthur Secret. “The World Wide Web.” Communications of the ACM 37, no. 8 (August 1994): 76–82.
-- Berti, Monica. “The Digital Rosetta Stone.” Accessed May 24, 2020. https://rosetta-stone.dh.uni-leipzig.de/rs/the-digital-rosetta-stone/.
-- Blumtritt, Joerg. “TEX – Digital Typesetting – Slow Media.” Slow Media (blog), June 9, 2010. http://en.slow-media.net/tex.
-- Bosio, Diana. “How Al Jazeera Reported the Arab Spring: A Preliminary Comparative Analysis: Media Asia: Vol 40, No 4.” Media Asia 40, no. 4 (March 4, 2016): 333–43. https://doi.org/10.1080/01296612.2013.11689986.
-- boyd, danah. “Culture of Harassment.” Medium, November 22, 2016. https://points.datasociety.net/culture-of-harassment-1d999adbfac3.
-- ———. “Social Media: A Phenomenon to Be Analyzed.” Social Media + Society 1, no. 1 (April 1, 2015): 2056305115580148. https://doi.org/10.1177/2056305115580148.
-- Bradley, John. Illuminated Manuscripts. Project Gutenberg EBook. London: Bracken Books, 2006. https://www.gutenberg.org/files/19870/19870-h/19870-h.htm#Page_1.
-- Brand, Stewart. Whole Earth 50th Anniversary Celebration, 2018. https://www.youtube.com/watch?v=31mXWZAgCF4.
-- Bray, Francesca. “Towards a Critical History of Non-Western Technology.” In China and Historical Capitalism, edited by Timothy Brook and Gregory Blue, 1st ed., 158–209. Cambridge University Press, 1999. https://doi.org/10.1017/CBO9780511470707.007.
-- Breasted, James Henry. “Ancient Times. A History of the Early World.” The Art World 3, no. 4 (1918): 337. https://doi.org/10.2307/25588300.
-- ———. Ancient Times, a History of the Early World; an Introduction to the Study of Ancient History and the Career of Early Man,. 2d ed., rev.Largely rewritten. Boston, New York [etc.: Ginn and Company, 1935.
-- Brewer, Kirstie. “How the Tech Industry Wrote Women out of History.” The Guardian, August 10, 2017, sec. Guardian Careers. https://www.theguardian.com/careers/2017/aug/10/how-the-tech-industry-wrote-women-out-of-history.
+- Berners-Lee, Tim, Robert Cailliau, Ari Loutononen, Henrik Frystyk Nielsen, and Arthur Secret. ‘The World Wide Web’. Communications of the ACM 37, no. 8 (August 1994): 76–82. https://www.w3.org/People/Berners-Lee/1994/08-CACM-p76-berners-lee.pdf.
+- Berti, Monica. ‘The Digital Rosetta Stone’. Accessed 24 May 2020. https://rosetta-stone.dh.uni-leipzig.de/rs/the-digital-rosetta-stone/.
+- Black, Lindsay. ‘Album 02: Cylcons from Far Western N.S.W. / [Probably Photographed by Lindsay Black]’. In Old Catalogue: Manuscripts, Oral History and Pictures Catalogue. Sydney: State Library of New South Wales, 2022. https://archival.sl.nsw.gov.au/Details/archive/110341389.
+- Blumtritt, Joerg. ‘TEX – Digital Typesetting – Slow Media’. Slow Media (blog), 6 September 2010. http://en.slow-media.net/tex.
+- Bosio, Diana. ‘How Al Jazeera Reported the Arab Spring: A Preliminary Comparative Analysis: Media Asia: Vol 40, No 4’. Media Asia 40, no. 4 (3 April 2016): 333–43. https://doi.org/10.1080/01296612.2013.11689986.
+- boyd, danah. ‘Culture of Harassment’. Medium, 22 November 2016. https://points.datasociety.net/culture-of-harassment-1d999adbfac3.
+- ———. ‘Social Media: A Phenomenon to Be Analyzed’. Social Media + Society 1, no. 1 (1 April 2015): 2056305115580148. https://doi.org/10.1177/2056305115580148.
+- Bradley, John. Illuminated Manuscripts. Project Gutenberg eBook. London: Bracken Books, 2006. https://www.gutenberg.org/files/19870/19870-h/19870-h.htm#Page_1.
+- Bray, Francesca. ‘Towards a Critical History of Non-Western Technology’. In China and Historical Capitalism, edited by Timothy Brook and Gregory Blue, 1st ed., 158–209. Cambridge University Press, 1999. https://doi.org/10.1017/CBO9780511470707.007.
+- Breasted, James Henry. ‘Ancient Times. A History of the Early World’. The Art World 3, no. 4 (1918): 337. https://doi.org/10.2307/25588300.
+- Brewer, Kirstie. ‘How the Tech Industry Wrote Women out of History’. The Guardian, 10 August 2017, sec. Guardian Careers. https://www.theguardian.com/careers/2017/aug/10/how-the-tech-industry-wrote-women-out-of-history.
 - Briggs, Asa, and Peter Burke. A Social History of the Media: From Gutenberg to the Internet. 3rd ed. Cambridge, UK %3B Malden, MA: Polity, 2009.
-- Brown, Michelle. A Guide to Western Historical Scripts from Antiquity to 1600. Toronto: University of Toronto Press, 1990. https://catalog.hathitrust.org/Record/002063824.
+- Brown, Michelle. A Guide to Western Historical Scripts from Antiquity to 1600. Toronto: University of Toronto Press, 1990.
 - Bruni, Flavia, and Andrew Pettegree, eds. Lost Books: Reconstructing the Print World of Pre-Industrial Europe. Lost Books. Brill, 2016. https://brill.com/view/title/32814.
-- Bühler, Karl. Karl Bühler Semiotic Foundations of Language Theory. Edited by Robert Innis. New York, NY, UNITED STATES: Springer, 2013. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5575695.
-- Bush, Vannevar. “As We May Think.” The Atlantic, July 1, 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
-- Camille, Michael. “Seeing and Reading: Some Visual Implications of Medieval Literacy and Illiteracy.” Art History 8, no. 1 (1985): 26–49. https://doi.org/10.1111/j.1467-8365.1985.tb00148.x.
+- Bühler, Karl. Karl Bühler Semiotic Foundations of Language Theory. Edited by Robert Innis. New York, NY, UNITED STATES: Springer, 2013.
+- Burckhardt, Titus. Fes: Stadt des Islam. 1st ed. München: C.H.Beck, 2015.
+- Bush, Vannevar. ‘As We May Think’. The Atlantic, 1 July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
+- Camille, Michael. Image on the Edge: The Margins of Medieval Art. Reaktion Books, 2019.
+- ———. ‘Seeing and Reading: Some Visual Implications of Medieval Literacy and Illiteracy’. Art History 8, no. 1 (1985): 26–49. https://doi.org/10.1111/j.1467-8365.1985.tb00148.x.
 - Canby, Sheila R., Deniz Beyazit, Martina Rugiadi, and A. C. S. Peacock. Court and Cosmos: The Great Age of the Seljuqs. Metropolitan Museum of Art, 2016. https://books.google.com/books?id=BPrjCwAAQBAJ&lpg=PP1&pg=PA176#v=onepage&q&f=false.
 - Candy, Stuart, Cher Potter, Danah Abdulla, Ahmed Ansari, Paola Antonelli, Tina Auer, James Auger, et al. Design and Futures, 2019.
-- Candy, Stuart, and Jeff Watson. “The Thing From The Future.” Situation Lab (blog), 2018. https://situationlab.org/project/the-thing-from-the-future/.
-- Carlstrom, Gregg. “Al Jazeera Is At the Center of the Qatar Crisis - The Atlantic,” June 24, 2017. https://www.theatlantic.com/international/archive/2017/06/al-jazeera-qatar-saudi-arabia-muslim-brotherhood/531471/.
-- Casson, Lionel. Libraries in the Ancient World. New Haven, UNITED STATES: Yale University Press, 2001. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=3420337.
+- Candy, Stuart, and Jeff Watson. ‘The Thing From The Future’. Situation Lab (blog), 2018. https://situationlab.org/project/the-thing-from-the-future/.
+- Carlstrom, Gregg. ‘Al Jazeera Is At the Center of the Qatar Crisis - The Atlantic’, 24 June 2017. https://www.theatlantic.com/international/archive/2017/06/al-jazeera-qatar-saudi-arabia-muslim-brotherhood/531471/.
+- Casson, Lionel. Libraries in the Ancient World. New Haven, UNITED STATES: Yale University Press, 2001.
 - Chiera, Edward, and George G Cameron. They Wrote on Clay: The Babylonian Tablets Speak to-Day. Chicago, Ill.; London: University of Chicago Press, 2013.
 - Cleaver, Laura, Alixe Bovey, and Lucy Donkin, eds. Illuminating the Middle Ages: Tributes to Prof. John Lowden from His Students, Friends and Colleagues. Illuminating the Middle Ages. Vol. 79. Library of the Written Word. Brill, 2020. https://brill.com/view/title/56850.
-- Clemens, Raymond, and Timothy. Graham. Introduction to Manuscript Studies. Ithaca: Cornell University Press, 2007. https://catalog.hathitrust.org/Record/005621163.
-- Cobb Kreisberg, Jenifer. “A Globe, Clothing Itself with a Brain | WIRED.” Wired 3, no. 6 (June 1995). https://www.wired.com/1995/06/teilhard/.
+- Clemens, Raymond, and Timothy. Graham. Introduction to Manuscript Studies. Ithaca: Cornell University Press, 2007.
+- Clinton, Allan Ramon. ‘High Modernism and the History of Automation’. Doctoral disertation, University of Florida, 2002.
+- Cobb Kreisberg, Jenifer. ‘A Globe, Clothing Itself with a Brain | WIRED’. Wired 3, no. 6 (June 1995). https://www.wired.com/1995/06/teilhard/.
 - Codex Sinaiticus. The British Library, 4th century CE. https://www.bl.uk/collection-items/codex-sinaiticus.
-- Collins, Keith. “Tech Is Overwhelmingly Male and Men Are Just Fine with That.” Quartz. Accessed January 6, 2020. https://qz.com/940660/tech-is-overwhelmingly-male-and-men-are-just-fine-with-that/.
-- Contadini, Anna. Arab Painting: Text and Image in Illustrated Arabic Manuscripts. Arab Painting. Brill, 2007. https://brill.com/view/title/13442.
-- Cowgill, George L. “Origins and Development of Urbanism: Archaeological Perspectives.” Annual Review of Anthropology 33 (2004): 525–49.
-- Crowley, David, and Paul Heyer. Communication in History: Technology, Culture, Society. Old Tappan, UNKNOWN: Taylor & Francis Group, 2010. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4015853.
-- D’Acci, Julie. Defining Women: Television and the Case of Cagney and Lacey. Chapel Hill: University of North Carolina Press, 1994. http://proxy.library.nyu.edu/login?url=https://heinonline.org/HOL/Page?handle=hein.peggy/dwtc0001.
-- Danesi, Marcel. Popular Culture: Introductory Perspectives. Blue Ridge Summit, UNITED STATES: Rowman & Littlefield Publishers, 2018. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5430391.
-- Daniels, Peter T. “Writing in the World and Linguistics.” Annual Meeting of the Berkeley Linguistics Society 36, no. 1 (August 24, 2010): 61. https://doi.org/10.3765/bls.v36i1.3903.
-- Darnton, Robert. “What Is the History of Books?” Daedalus 111, no. 3 (1984): 65–83.
-- De Hamel, Christopher. A History of Illuminated Manuscripts. Oxford: Phaidon, 1986. https://catalog.hathitrust.org/Record/000557854.
+- Collins, Keith. ‘Tech Is Overwhelmingly Male and Men Are Just Fine with That’. Quartz. Accessed 6 January 2020. https://qz.com/940660/tech-is-overwhelmingly-male-and-men-are-just-fine-with-that/.
+- Collins, Minta. Medieval Herbals: The Illustrative Traditions. 1 edition. London : Toronto ; Buffalo: University of Toronto Press, Scholarly Publishing Division, 2000.
+- Contadini, Anna. ‘A BESTIARY TALE: TEXT AND IMAGE OF THE UNICORN IN THE KITĀB NA‘T AL-ḤAYAWĀN (BRITISH LIBRARY, OR. 2784)’. Muqarnas Online 20, no. 1 (1 January 2003): 17–33. https://doi.org/10.1163/22118993-90000037.
+- ———. Arab Painting: Text and Image in Illustrated Arabic Manuscripts. Arab Painting. Brill, 2007. https://brill.com/view/title/13442.
+- Cowgill, George L. ‘Origins and Development of Urbanism: Archaeological Perspectives’. Annual Review of Anthropology 33 (2004): 525–49. https://www.jstor.org/stable/25064864.
+- Critchlow, Keith. Islamic Patterns: An Analytical and Cosmological Approach. First Edition edition. London: W W Norton & Co Inc, 1984.
+- Crowley, David, and Paul Heyer. Communication in History: Technology, Culture, Society. Old Tappan, UNKNOWN: Taylor & Francis Group, 2010.
+- D’Acci, Julie. Defining Women: Television and the Case of Cagney and Lacey. Chapel Hill: University of North Carolina Press, 1994.
+- Danesi, Marcel. Popular Culture: Introductory Perspectives. Blue Ridge Summit, UNITED STATES: Rowman & Littlefield Publishers, 2018.
+- Daniels, Peter T. ‘Writing in the World and Linguistics’. Annual Meeting of the Berkeley Linguistics Society 36, no. 1 (24 August 2010): 61. https://doi.org/10.3765/bls.v36i1.3903.
+- Darnton, Robert. ‘What Is the History of Books?’ Daedalus 111, no. 3 (1984): 65–83. https://www.jstor.org/stable/20024803.
+- Day, Florence E. ‘Mesopotamian Manuscripts of Dioscorides’. The Metropolitan Museum of Art Bulletin 8, no. 9 (1950): 274–80. https://doi.org/10.2307/3257424.
+- De Hamel, Christopher. A History of Illuminated Manuscripts. Oxford: Phaidon, 1986.
 - Debord, Guy. The Society of the Spectacle. Paperbound edition. Berkeley, CA: Bureau of Public Secrets, 2013.
-- Delia, Diana. “From Romance to Rhetoric: The Alexandrian Library in Classical and Islamic Traditions,” 1992, 20.
+- Delia, Diana. ‘From Romance to Rhetoric: The Alexandrian Library in Classical and Islamic Traditions’, 1992, 20.
 - Derrida, Jacques. The Animal That Therefore I Am. Fordham University Press, 2008. https://muse.jhu.edu/book/13230.
 - ———. The Post Card: From Socrates to Freud and Beyond. Chicago: University of Chicago Press, 1987.
-- Desjardins, Jeff. “A Visual History of the Largest Companies by Market Cap (1999-Today).” Visual Capitalist, June 21, 2019. https://www.visualcapitalist.com/a-visual-history-of-the-largest-companies-by-market-cap-1999-today/.
-- Dickson, James H., Klaus Oeggl, and Linda L. Handley. “The Iceman Reconsidered.” Scientific American 288, no. 5 (2003): 70–79.
-- Dumas, Alexander. “The Telegraph.” In The Count of Monte Cristo, translated by Anonymous. Chapman and Hall, 1846. https://en.wikisource.org/wiki/The_Count_of_Monte_Cristo/Chapter_60.
+- Desjardins, Jeff. ‘A Visual History of the Largest Companies by Market Cap (1999-Today)’. Visual Capitalist, 21 June 2019. https://www.visualcapitalist.com/a-visual-history-of-the-largest-companies-by-market-cap-1999-today/.
+- Dickson, James H., Klaus Oeggl, and Linda L. Handley. ‘The Iceman Reconsidered’. Scientific American 288, no. 5 (2003): 70–79. https://www.jstor.org/stable/26060285.
+- Doris. Behrens-Abouseif. Schönheit in der arabischen Kultur. München: Verlag CHBeck, 1998.
+- Dumas, Alexander. ‘The Telegraph’. In The Count of Monte Cristo, translated by Anonymous. Chapman and Hall, 1846. https://en.wikisource.org/wiki/The_Count_of_Monte_Cristo/Chapter_60.
 - Dunne, Anthony, and Fiona Raby. Speculative Everything: Design, Fiction, and Social Dreaming. Cambridge, Massachusetts ; London: The MIT Press, 2013.
 - Durbin, Paul T., ed. Philosophy of Technology. Dordrecht: Springer Netherlands, 1989. https://doi.org/10.1007/978-94-009-2303-4.
 - Dusek, Val. Philosophy of Technology: An Introduction. Malden, MA %3B Oxford: Blackwell Pub, 2006.
 - Duzer, Chet Van, and Ilya Dines. Apocalyptic Cartography: Thematic Maps and the End of the World in a Fifteenth-Century Manuscript. Apocalyptic Cartography. Brill, 2016. https://brill.com/view/title/32373.
-- Edgerton, Samuel Y. “Alberti’s Perspective: A New Discovery and a New Evaluation.” The Art Bulletin 48, no. 3/4 (1966): 367–78. https://doi.org/10.2307/3048391.
+- E. Sue  Savage-Rumbaugh. Kanzi: The Ape at the Brink of the Human Mind. New York: Wiley, 1994.
+- Edgerton, Samuel Y. ‘Alberti’s Perspective: A New Discovery and a New Evaluation’. The Art Bulletin 48, no. 3/4 (1966): 367–78. https://doi.org/10.2307/3048391.
+- Elman, Josh. ‘The History of the Dot Com Era’. Medium (blog), 18 July 2021. https://joshelman.medium.com/the-history-of-the-dot-com-era-c370828ea32a.
+- Errington, Joseph. ‘Colonial Linguistics’. Annual Review of Anthropology 30 (2001): 19–39. https://www.jstor.org/stable/3069207.
+- Euler’s Formula with Introductory Group Theory, 2017. https://www.youtube.com/watch?v=mvmuCPvRoWQ.
 - Evans, Claire Lisa. Broad Band: The Untold Story of the Women Who Made the Internet. New York, New York: Portfolio/Penguin, 2018.
-- Felt, Ulrike, Rayvon Fouché, Clark A. Miller, and Laurel Smith-Doerr, eds. The Handbook of Science and Technology Studies. Fourth edition. Cambridge, Massachusetts: The MIT Press, 2017. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5052910.
+- Felt, Ulrike, Rayvon Fouché, Clark A. Miller, and Laurel Smith-Doerr, eds. The Handbook of Science and Technology Studies. Fourth edition. Cambridge, Massachusetts: The MIT Press, 2017.
+- Filmer, Ann. ‘How the Mechanical Tomato Harvester Prompted the Food Movement’. Department of Plant Sciences, 24 July 2015. https://www.plantsciences.ucdavis.edu/news/how-mechanical-tomato-harvester-prompted-food-movement.
 - Finkelstein, David, Alistair McCleery, and Alistair McCleery. Introduction to Book History. Routledge, 2012. https://doi.org/10.4324/9780203150252.
-- Fleck, Ludwik, Thaddeus J. Trenn, Robert K. Merton, and Fred Bradley. Genesis and Development of a Scientific Fact. Repr. 11. Aufl. Sociology of Science. Chicago [u.a]: Univ. of Chicago Press, 2008. https://worldpece.org/sites/default/files/artifacts/media/pdf/fleck_et_al._-_2008_-_genesis_and_development_of_a_scientific_fact.pdf.
-- Flusser, Vilém. Does Writing Have a Future? Electronic Mediations ; v. 33. Minneapolis: University of Minnesota Press, 2011. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=673647.
-- ———. Into the Universe of Technical Images. Electronic Mediations ; v. 32. Minneapolis: University of Minnesota Press, 2011. http://proxy.library.nyu.edu/login?url=https://www.jstor.org/stable/10.5749/j.cttttcq8.
+- FitzJames, Martin. ‘Pigments for a Period Palette’. Presented at the Collegium Caidis Fall, Fenwood Knoll, 2001. https://heraldry.sca.org/kwhss/2014/Martin_FitzJames/Pigments_For_A_Period_Palette.pdf.
+- Flusser, Vilém. Does Writing Have a Future? Electronic Mediations ; v. 33. Minneapolis: University of Minnesota Press, 2011.
+- ———. Into the Universe of Technical Images. Electronic Mediations ; v. 32. Minneapolis: University of Minnesota Press, 2011.
 - ———. Towards a Philosophy of Photography. London: Reaktion, 2013.
-- Ford, A. J. Marvel and Artefact: The “Wonders of the East” in Its Manuscript Contexts. Marvel and Artefact. Brill, 2016. https://brill.com/view/title/32164.
-- Ford, John. Stagecoach. Adventure, Drama, Western. Walter Wanger Productions, 1939.
+- Ford, A. J. Marvel and Artefact: The ‘Wonders of the East’ in Its Manuscript Contexts. Marvel and Artefact. Brill, 2016. https://brill.com/view/title/32164.
 - Foster, Hal. The Anti-Aesthetic: Essays on Postmodern Culture. New York: New Press, 2002.
 - Fukuyama, Francis. The End of History and the Last Man. Trade paperback ed. New York: Free Press, 2006.
-- Fuller, Matthew. Software Studies: A Lexicon. Leonardo (Series) (Cambridge, Mass.). Cambridge, Mass., Cambridge, Mass. %3B London: MIT Press, MIT, 2008. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=3338867.
-- Fuls, Andreas. “Classifying Undeciphered Writing Systems.” Historical Linguistics 128, no. 1 (November 8, 2015): 42–58. https://doi.org/10.13109/hisp.2015.128.1.42.
-- Galison, Peter. “Ten Problems in History and Philosophy of Science.” Isis 99, no. 1 (2008): 111–24. https://doi.org/10.1086/587536.
-- Gilbert, Samuel. “The Man Who Helped Design a 10,000-Year Nuclear Waste Site Marker.” Vice (blog), April 26, 2018. https://www.vice.com/en_us/article/9kgjze/jon-lomberg-nuclear-waste-marker-v25n1.
-- Gitelman, Lisa. Always Already New: Media, History and the Data of Culture. Cambridge, Mass., Cambridge, Mass. %3B London: MIT Press, MIT, 2006. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=3338602.
+- Fuller, Matthew. Software Studies: A Lexicon. Leonardo (Series) (Cambridge, Mass.). Cambridge, Mass., Cambridge, Mass. %3B London: MIT Press, MIT, 2008.
+- Fuls, Andreas. ‘Classifying Undeciphered Writing Systems’. Historical Linguistics 128, no. 1 (8 November 2015): 42–58. https://doi.org/10.13109/hisp.2015.128.1.42.
+- Galison, Peter. ‘Ten Problems in History and Philosophy of Science’. Isis 99, no. 1 (2008): 111–24. https://doi.org/10.1086/587536.
+- ‘Geert | Interview with German Media Theorist Annekathrin Kohout by Geert Lovink about Her Pop Culture Studies: Nerds, K-Pop and Cuteness’. Accessed 4 May 2023. https://networkcultures.org/geert/2023/04/24/annekathrin-kohout/.
+- Gilbert, Samuel. ‘The Man Who Helped Design a 10,000-Year Nuclear Waste Site Marker’. Vice (blog), 26 April 2018. https://www.vice.com/en_us/article/9kgjze/jon-lomberg-nuclear-waste-marker-v25n1.
+- Gitelman, Lisa. Always Already New: Media, History and the Data of Culture. Cambridge, Mass., Cambridge, Mass. %3B London: MIT Press, MIT, 2006.
 - Gleick, James. The Information: A History, a Theory, a Flood. 1st Vintage Books ed., 2012. New York: Vintage Books, 2012.
-- Godwin, Michael. “Everything That’s Wrong With Social Media And Big Internet Companies.” Techdirt. Accessed June 2, 2020. https://www.techdirt.com/articles/20171128/23565738694/everything-thats-wrong-with-social-media-big-internet-companies-part-1.shtml.
-- Google, Inc. “Google Ngram Viewer.” Accessed May 12, 2020. https://books.google.com/ngrams/.
-- ———. “Google Trends.” Google Trends. Accessed May 12, 2020. https://trends.google.com/trends/.
-- Green, Arnold H. “The History of Libraries in the Arab World: A Diffusionist Model.” Libraries & Culture 23, no. 4 (1988): 454–73.
-- Griffith, D. W. In Old California. Short, Drama, History, Western. Biograph Company, 1910.
-- Grosswiler, Paul. “Dispelling the Alphabet Effect.” Canadian Journal of Communication 29, no. 2 (2004). https://doi.org/10.22230/cjc.2004v29n2a1432.
-- Halldén, Philip. “WHAT IS ARAB ISLAMIC RHETORIC? RETHINKING THE HISTORY OF MUSLIM ORATORY ART AND HOMILETICS.” International Journal of Middle East Studies 37, no. 1 (February 2005): 19–38. https://doi.org/10.1017/S0020743805050038.
-- Haraway, Donna. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century.” In Simians, Cyborgs and Women: The Reinvention of Nature. Routledge, 1991. https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=1195818.
-- Haraway, Donna J. When Species Meet. Minneapolis, UNITED STATES: University of Minnesota Press, 2007. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=328400.
-- Hayles, Katherine. How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. Chicago, Ill.: University of Chicago Press, 1999. http://proxy.library.nyu.edu/login?url=http://hdl.handle.net/2027/heb.05711.0001.001.
-- ———. My Mother Was a Computer: Digital Subjects and Literary Texts. Chicago: University of Chicago Press, 2005. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=530439.
+- Go Ahead, Dream about the Future. Accessed 16 April 2020. https://www.ted.com/talks/charlie_jane_anders_go_ahead_dream_about_the_future.
+- Godwin, Michael. ‘Everything That’s Wrong With Social Media And Big Internet Companies’. Techdirt. Accessed 2 June 2020. https://www.techdirt.com/articles/20171128/23565738694/everything-thats-wrong-with-social-media-big-internet-companies-part-1.shtml.
+- Gonzalez, Valerie. Beauty and Islam: Aesthetics in Islamic Art and Architecture. London, UNITED KINGDOM: I. B. Tauris & Company, Limited, 2001.
+- Google, Inc. ‘Google Ngram Viewer’. Accessed 12 May 2020. https://books.google.com/ngrams/.
+- ———. ‘Google Trends’. Google Trends. Accessed 12 May 2020. https://trends.google.com/trends/.
+- Graber, Oleg, and Cynthia Robinson, eds. Islamic Art and Literature. Princeton: Markus Wiener Publishers, 2017.
+- Green, Arnold H. ‘The History of Libraries in the Arab World: A Diffusionist Model’. Libraries & Culture 23, no. 4 (1988): 454–73. https://www.jstor.org/stable/25542092.
+- Grosswiler, Paul. ‘Dispelling the Alphabet Effect’. Canadian Journal of Communication 29, no. 2 (2004). https://doi.org/10.22230/cjc.2004v29n2a1432.
+- Guesdon, Marie-Geneviève, Annie Vernay-Nouri, and Bibliothèque nationale de France. L’art du livre arabe. BNF edition. Paris: Bnf - Bibliotheque, 2001.
+- Haas, Jonathan, and Winifred Creamer. ‘Crucible of Andean Civilization: The Peruvian Coast from 3000 to 1800 BC’. Current Anthropology 47, no. 5 (2006): 745–75. https://doi.org/10.1086/506281.
+- Halldén, Philip. ‘WHAT IS ARAB ISLAMIC RHETORIC? RETHINKING THE HISTORY OF MUSLIM ORATORY ART AND HOMILETICS’. International Journal of Middle East Studies 37, no. 1 (February 2005): 19–38. https://doi.org/10.1017/S0020743805050038.
+- Haraway, Donna. ‘A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century’. In Simians, Cyborgs and Women: The Reinvention of Nature. Routledge, 1991.
+- Haraway, Donna J. When Species Meet. Minneapolis, UNITED STATES: University of Minnesota Press, 2007.
+- Hayles, Katherine. How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. Chicago, Ill.: University of Chicago Press, 1999.
+- ———. My Mother Was a Computer: Digital Subjects and Literary Texts. Chicago: University of Chicago Press, 2005.
 - Heidegger, Martin. The Question Concerning Technology, and Other Essays. New York: Garland Pub, 1977. https://monoskop.org/images/4/44/Heidegger_Martin_The_Question_Concerning_Technology_and_Other_Essays.pdf.
 - Hendrickson, Thomas. Ancient Libraries and Renaissance Humanism: The De Bibliothecis of Justus Lipsius. Ancient Libraries and Renaissance Humanism. Brill, 2017. https://brill.com/view/title/34288.
+- Herder, Johann Gottfried. Abhandlung über den Ursprung der Sprache. Accessed 10 May 2020. http://www.zeno.org/Literatur/M/Herder,+Johann+Gottfried/Theoretische+Schriften/Abhandlung+%C3%BCber+den+Ursprung+der+Sprache.
 - Hershman-Leeson, Lynn. Lynn Hershman Leeson: Civic Radar. Edited by Peter Frankopan. Ostfildern: Hatje Cantz, 2016.
-- Higham, Thomas, Laura Basell, Roger Jacobi, Rachel Wood, Christopher Bronk Ramsey, and Nicholas J. Conard. “Τesting Models for the Beginnings of the Aurignacian and the Advent of Figurative Art and Music: The Radiocarbon Chronology of Geißenklösterle.” Journal of Human Evolution 62, no. 6 (June 1, 2012): 664–76. https://doi.org/10.1016/j.jhevol.2012.03.003.
-- Houser, R. E. “Lecture Text and Audio: ‘Science’: From Plato to Aristotle to Us.” Thomas Aquinas College, January 22, 2019. https://thomasaquinas.edu/news/lecture-science-plato-aristotle-us.
-- Hovers, Erella, Shimon Ilani, Ofer BarYosef, and Bernard Vandermeersch. “Ochre Use by Modern Humans in Qafzeh Cave: Ochre Use by Modern Humans in Qafzeh Cave.” Current Anthropology 44, no. 4 (2003): 491–522. https://doi.org/10.1086/375869.
-- Hultén, K.G. Pontus. The Machine as Seen at the End of the Mechanical Age. New York: The Museum of Modern Art, New York. Accessed June 14, 2020. https://monoskop.org/images/b/b5/The_Machine_as_Seen_at_the_End_of_the_Mechanical_Age_1968.pdf.
-- Ibn Wahshiyyah the Nabataean - ابن وحشية النبطي. Arabe 6805. Šawq al-Mustahām Fī Maʿrifat Rumūz al-Aqlām - شوق المستهام في معرفة رموز الأقلام منسوب إلى. Accessed May 25, 2020. https://archivesetmanuscrits.bnf.fr/ark:/12148/cc59242/.
+- Higham, Thomas, Laura Basell, Roger Jacobi, Rachel Wood, Christopher Bronk Ramsey, and Nicholas J. Conard. ‘Τesting Models for the Beginnings of the Aurignacian and the Advent of Figurative Art and Music: The Radiocarbon Chronology of Geißenklösterle’. Journal of Human Evolution 62, no. 6 (1 June 2012): 664–76. https://doi.org/10.1016/j.jhevol.2012.03.003.
+- Hillenbrand, Robert. ‘Mamlūk and Īlkhānid Bestiaries: Convention and Experiment’. Ars Orientalis 20 (1990): 149–87. https://www.jstor.org/stable/4629404.
+- Houser, R. E. ‘Lecture Text and Audio: “Science”: From Plato to Aristotle to Us’. Thomas Aquinas College, 22 January 2019. https://thomasaquinas.edu/news/lecture-science-plato-aristotle-us.
+- Hovers, Erella, Shimon Ilani, Ofer BarYosef, and Bernard Vandermeersch. ‘Ochre Use by Modern Humans in Qafzeh Cave: Ochre Use by Modern Humans in Qafzeh Cave’. Current Anthropology 44, no. 4 (2003): 491–522. https://doi.org/10.1086/375869.
+- Ibn Wahshiyyah the Nabataean - ابن وحشية النبطي. Arabe 6805. Šawq al-Mustahām Fī Maʿrifat Rumūz al-Aqlām - شوق المستهام في معرفة رموز الأقلام منسوب إلى. Accessed 25 May 2020. https://archivesetmanuscrits.bnf.fr/ark:/12148/cc59242/.
+- In Old California. Short, Drama, History, Western. Biograph Company, 1910.
 - J. Paul Getty Museum, and Thomas Kren, eds. Masterpieces of the J. Paul Getty Museum. Illuminated Manuscripts. Los Angeles: The Museum, 1997.
 - Jones, Robert. Learning Arabic in Renaissance Europe (1505-1624). Learning Arabic in Renaissance Europe (1505-1624). Brill, 2020. https://brill.com/view/title/36005.
 - Kelly, Kevin. What Technology Wants. New York: Viking, 2010.
+- Kholeif, Omar, ed. You Are Here: Art after the Internet. Manchester: Cornerhouse ; London, 2014.
 - Kilgour, Frederick G. The Evolution of the Book. New York: Oxford University Press, 1998.
-- ———. The Evolution of the Book. New York: Oxford University Press, 1998.
-- ———. The Evolution of the Book. New York: Oxford University Press, 1998.
 - Kittler, Friedrich A. Gramophone, Film, Typewriter. Writing Science. Stanford, Calif.: Stanford University Press, 1999.
-- Kolhatkar, Sheelah. “The Tech Industry’s Gender-Discrimination Problem | The New Yorker,” November 13, 2017. https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem.
-- Lehrer-Stein, Janni. “Opinion | What It’s Like to Use Facebook When You’re Blind.” The New York Times, January 17, 2020, sec. Opinion. https://www.nytimes.com/2020/01/17/opinion/sunday/facebook-facial-recognition-accessibility.html.
-- Louden, Robert B. “Language: Who/What Has It? (And Were Aristotle and Descartes Right?).” HISTORY OF PHILOSOPHY QUARTERLY 26, no. 4 (October 2009): 373–87.
+- Kolhatkar, Sheelah. ‘The Tech Industry’s Gender-Discrimination Problem | The New Yorker’, 13 November 2017. https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem.
+- Komaroff, Linda, ed. Beyond the Legacy of Genghis Khan. Beyond the Legacy of Genghis Khan. Brill, 2006. https://brill.com/view/title/11137.
+- Lameira, Adriano R, Madeleine E Hardus, Andrea Ravignani, Teresa Raimondi, and Marco Gamba. ‘Recursive Self-Embedded Vocal Motifs in Wild Orangutans’. Edited by Ammie K Kalan and George H Perry. eLife 12 (22 January 2024): RP88348. https://doi.org/10.7554/eLife.88348.
+- Leder, Dirk, Raphael Hermann, Matthias Hüls, Gabriele Russo, Philipp Hoelzmann, Ralf Nielbock, Utz Böhner, et al. ‘A 51,000-Year-Old Engraved Bone Reveals Neanderthals’ Capacity for Symbolic Behaviour’. Nature Ecology & Evolution, 5 July 2021, 1–10. https://doi.org/10.1038/s41559-021-01487-z.
+- Lehrer-Stein, Janni. ‘Opinion | What It’s Like to Use Facebook When You’re Blind’. The New York Times, 17 January 2020, sec. Opinion. https://www.nytimes.com/2020/01/17/opinion/sunday/facebook-facial-recognition-accessibility.html.
+- Li, Youzheng. ‘Nonwestern Semiotics and Its Possible Impact on the Composition of Semiotics Theory in the Future’ 2011, no. 187 (1 October 2011): 229–37. https://doi.org/10.1515/semi.2011.073.
+- Lisanti, Anthony. ‘Early Classical Civilization (until 600 BCE) - AP World History’, n.d. Accessed 24 May 2020.
+- Louden, Robert B. ‘Language: Who/What Has It? (And Were Aristotle and Descartes Right?)’. HISTORY OF PHILOSOPHY QUARTERLY 26, no. 4 (October 2009): 373–87. www.jstor.org/stable/27745172.
 - Ludwik Fleck. Genesis and Development of a Scientific Fact. Phoenix ed. Chicago: University of Chicago Press, 1981.
 - Manasseh, Cyrus. The Problematic of Video Art in the Museum, 1968-1990. Cambria Press, 2009.
+- Manovich, Lev. Cultural Analytics. Cambridge, MA: MIT Press, 2020.
 - Marinetti, Filippo Tommaso. Manifesto of Futurism: Published in Le Figaro, February 20, 1909. Yale Library Associates, 1983.
 - Maspero, G. (Gaston). Recueil de travaux relatifs à la philologie et à l’archéologie égyptiennes et assyriennes. Paris : Libr. Honoré Champion, 1870. http://archive.org/details/recueildetravaux27masp.
+- McKay, A. C., and Asko Parpola. ‘Review of The Roots of Hinduism: The Early Aryans and the Indus Civilization, ParpolaAsko’. Asian Ethnology 76, no. 2 (2017): 431–34. https://doi.org/10.2307/90017682.
 - McLuhan, Herbert Marshall. Counterblast. London: Rapp and Whiting, 1970. https://monoskop.org/images/d/dc/McLuhan_Marshall_1970_Counterblast.pdf.
-- McLuhan, Marshall, and R. K. Logan. “ALPHABET, MOTHER OF INVENTION.” ETC: A Review of General Semantics 34, no. 4 (1977): 373–83.
-- Meek Lange, Margaret. “Progress.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2019. Metaphysics Research Lab, Stanford University, 2019. https://plato.stanford.edu/archives/win2019/entries/progress/.
+- McLuhan, Marshall, and R. K. Logan. ‘ALPHABET, MOTHER OF INVENTION’. ETC: A Review of General Semantics 34, no. 4 (1977): 373–83. https://www.jstor.org/stable/42575278.
+- Meek Lange, Margaret. ‘Progress’. In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2019. Metaphysics Research Lab, Stanford University, 2019. https://plato.stanford.edu/archives/win2019/entries/progress/.
+- Megyesi, Beáta, ed. Proceedings of the 3rd International Conference on Historical Cryptology HistoCrypt 2020 | International Conference on Historical Cryptology. NEALT Proceedings Series 44. Linköping: Linköping University Electronic Press, 2020. https://ecp.ep.liu.se/index.php/histocrypt/issue/view/18.
 - Meij, Th C. van der. Indonesian Manuscripts from the Islands of Java, Madura, Bali and Lombok. BRILL, 2017.
-- Metzger, Bruce M. Manuscripts of the Greek Bible: An Introduction to Palaeography. Cary, UNITED STATES: Oxford University Press, Incorporated, 1981. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=431121.
-- Mittler, Elmar. “The Library as History: Library History Research after the Cultural Turn.” Quaerendo 46, no. 2–3 (November 8, 2016): 222–40. https://doi.org/10.1163/15700690-12341352.
-- Muliaee, Maryam, and Mani Merhvarz. “Mapping Media Studies.” MAST. The Journal of Media Art Study and Theory 1, no. 1 (2020). https://mast-nemla.org/wp-content/uploads/2020/04/MAST_Vol1_No1.pdf.
-- Multiple authors. “Proto-Indo-European Language.” In Wikipedia, May 23, 2020. https://en.wikipedia.org/w/index.php?title=Proto-Indo-European_language&oldid=958391937.
-- Museo Galileo. “Organum Mathematicum.” Museo Galileo - Institute and Museum of the History of Science, 2015. https://catalogue.museogalileo.it/object/OrganumMathematicum.html.
-- Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Electronic Mediations ; v. 23. Minneapolis: University of Minnesota Press, 2008. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=334221.
-- Nelson, Theodore. “Project Xanadu®,” May 17, 2007. http://xanadu.com/.
+- Melion, Walter S., James Clifton, and Michel Weemans, eds. Imago Exegetica: Visual Images as Exegetical Instruments, 1400-1700. Imago Exegetica. Brill, 2014. https://brill.com/view/title/24786.
+- Metzger, Bruce M. Manuscripts of the Greek Bible: An Introduction to Palaeography. Cary, UNITED STATES: Oxford University Press, Incorporated, 1981.
+- Mittler, Elmar. ‘The Library as History: Library History Research after the Cultural Turn’. Quaerendo 46, no. 2–3 (8 November 2016): 222–40. https://doi.org/10.1163/15700690-12341352.
+- Muliaee, Maryam, and Mani Merhvarz. ‘Mapping Media Studies’. MAST. The Journal of Media Art Study and Theory 1, no. 1 (2020). https://mast-nemla.org/wp-content/uploads/2020/04/MAST_Vol1_No1.pdf.
+- Multiple authors. ‘Proto-Indo-European Language’. In Wikipedia, 23 May 2020. https://en.wikipedia.org/w/index.php?title=Proto-Indo-European_language&oldid=958391937.
+- Museo Galileo. ‘Organum Mathematicum’. Museo Galileo - Institute and Museum of the History of Science, 2015. https://catalogue.museogalileo.it/object/OrganumMathematicum.html.
+- Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Electronic Mediations ; v. 23. Minneapolis: University of Minnesota Press, 2008.
+- National Endowment for the Arts. ‘Tech as Art: Supporting Artists Who Use Technology as a Creative Medium’, 2021. https://www.arts.gov/about/publications/tech-art-supporting-artists-who-use-technology-creative-medium.
+- National Endowment for the Arts, Vanessa Chang, Agnes Chavez, Megan Elliott, Ari Melenciano, Stephanie Pereira, Omari Rush, et al. Tech as Art: Commissioned Essays from Arts Practitioners, 2021. https://www.arts.gov/impact/arts-technology-field-scan/essays.
+- Nelson, Theodore. ‘Project Xanadu®’, 17 May 2007. http://xanadu.com/.
 - Nemeth, Titus. Arabic Type-Making in the Machine Age: The Influence of Technology on the Form of Arabic Type, 1908–1993. Arabic Type-Making in the Machine Age. Brill, 2017. https://brill.com/view/title/32317.
-- Netherlands Media Art Institute. “What Is Media Art?” Accessed June 8, 2020. http://www.nimk.nl/eng/education/what-is-media-art.
+- Netherlands Media Art Institute. ‘What Is Media Art?’ Accessed 8 June 2020. http://www.nimk.nl/eng/education/what-is-media-art.
+- Neurath, Otto. International Picture Language: The First Rules of Isotype. London, K. Paul, Trench, Trubner & co., ltd., 1936. http://archive.org/details/internationalpic00neur.
 - Nichols, Stephen G., and Siegfried Wenzel, eds. The Whole Book: Cultural Perspectives on the Medieval Miscellany. Ann Arbor: University of Michigan Press, 1996.
-- Noble, Safiya Umoja. Algorithms of Oppression: How Search Engines Reinforce Racism. New York, UNITED STATES: New York University Press, 2018. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4834260.
-- Olson, Maria. “Words Without Pictures,” September 24, 2008. http://web.archive.org/web/20080924184457/http://www.wordswithoutpictures.org/main.html?id=276.
-- Oxford English Dictionary. “Technology, n.” In OED Online. Oxford University Press. Accessed May 17, 2020. https://www.oed.com/view/Entry/198469.
+- Noble, Safiya Umoja. Algorithms of Oppression: How Search Engines Reinforce Racism. New York, UNITED STATES: New York University Press, 2018.
+- Olson, Maria. ‘Words Without Pictures’, 24 September 2008. http://web.archive.org/web/20080924184457/http://www.wordswithoutpictures.org/main.html?id=276.
+- Oxford English Dictionary. ‘Alphabet, n.’ In OED Online. Oxford University Press. Accessed 24 May 2020. http://www.oed.com/view/Entry/5693.
+- ———. ‘Technology, n.’ In OED Online. Oxford University Press. Accessed 17 May 2020. https://www.oed.com/view/Entry/198469.
 - Pächt, Otto. Book Illumination in the Middle Ages: An Introduction. London, England : Oxford [Oxfordshire]: Harvey Miller Publishers ; Oxford University Press, 1986.
-- Parry, Richard. “Episteme and Techne.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/sum2020/entries/episteme-techne/.
-- Paul, Helen, and Helen Paul. The South Sea Bubble: An Economic History of Its Origins and Consequences. London, UNITED KINGDOM: Taylor & Francis Group, 2010. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=589632.
-- Payne, Dawn. “Pigments for a Period Palette,” n.d., 6.
-- Pierre Tallet author. Les papyrus de la mer Rouge. 1, Le “journal de Merer” (Papyrus Jarf A et B). Mémoires publiés par les membres de l’Institut français d’archéologie orientale du Caire 136. Le Caire: Institut français d’archéologie orientale, 2017.
+- Parpola, Asko. The Roots of Hinduism: The Early Aryans and The Indus Civilization. The Roots of Hinduism. Oxford University Press. Accessed 1 May 2020. https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780190226909.001.0001/acprof-9780190226909.
+- Parry, Richard. ‘Episteme and Techne’. In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/sum2020/entries/episteme-techne/.
+- Pastena, Carlo. Il Libro Asiatico. Accessed 5 July 2020. https://www.academia.edu/33411096/Il_libro_asiatico.pdf.
+- Paul, Helen, and Helen Paul. The South Sea Bubble: An Economic History of Its Origins and Consequences. London, UNITED KINGDOM: Taylor & Francis Group, 2010.
+- Pierre Tallet author. Les papyrus de la mer Rouge. 1, Le ‘journal de Merer’ (Papyrus Jarf A et B). Mémoires publiés par les membres de l’Institut français d’archéologie orientale du Caire 136. Le Caire: Institut français d’archéologie orientale, 2017.
+- Piezonka, Henny, Natalya Chairkina, Ekaterina Dubovtseva, Lyubov Kosinskaya, John Meadows, and Tanja Schreiber. ‘The World’s Oldest-Known Promontory Fort: Amnya and the Acceleration of Hunter-Gatherer Diversity in Siberia 8000 Years Ago’. Antiquity 97, no. 396 (December 2023): 1381–1401. https://doi.org/10.15184/aqy.2023.164.
 - Pontus-Hultén, K. G. The Machine as Seen at the End of the Mechanical Age. New York, NY: The Museum of Modern Art, New York, 1968. https://monoskop.org/images/b/b5/The_Machine_as_Seen_at_the_End_of_the_Mechanical_Age_1968.pdf.
+- ‘Post-Internet Art - Monoskop’. Accessed 29 April 2020. https://monoskop.org/Post-internet_art.
 - Pouey-Mounou, Anne-Pascale, and Paul J. Smith, eds. Early Modern Catalogues of Imaginary Books: A Scholarly Anthology. Early Modern Catalogues of Imaginary Books. Brill, 2020. https://brill.com/view/title/56074.
-- Queerious Labs. “Queerious Labs - Manifesto.” Accessed January 6, 2020. https://queeriouslabs.com/manifesto/.
-- Ramos, José. Why Futures Studies: An Interview with Jim Dator. Interview, 2012. https://actionforesight.net/why-futures-studies-an-interview-with-jim-dator/.
+- Queerious Labs. ‘Queerious Labs - Manifesto’. Accessed 6 January 2020. https://queeriouslabs.com/manifesto/.
 - Regourd, Anne, ed. The Trade in Papers Marked with Non-Latin Characters / Le Commerce Des Papiers à Marques à Caractères Non-Latins: Documents and History / Documents et Histoire. The Trade in Papers Marked with Non-Latin Characters / Le Commerce Des Papiers à Marques à Caractères Non-Latins. Brill, 2018. https://brill.com/view/title/34962.
-- Renner, Nausicaa. “How Social Media Shapes Our Identity.” The New Yorker, August 8, 2019. https://www.newyorker.com/books/under-review/how-social-media-shapes-our-identity.
+- Renner, Nausicaa. ‘How Social Media Shapes Our Identity’. The New Yorker, 8 August 2019. https://www.newyorker.com/books/under-review/how-social-media-shapes-our-identity.
+- Reyes, Angela. ‘Postcolonial Semiotics’. Annual Review of Anthropology 50, no. 1 (2021): 291–307. https://doi.org/10.1146/annurev-anthro-101819-110253.
+- Richard. Ettinghausen. Islamic Art and Architecture, 650-1250. [2nd ed.]. Pelican History of Art. New Haven %3B London: Yale University Press, 2001.
 - Robinson, Andrew. The Story of Writing. 1st paperback ed. New York: Thames and Hudson, 1999.
-- ———. Writing and Script: A Very Short Introduction. Writing and Script: A Very Short Introduction. Oxford University Press. Accessed April 26, 2020. https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567782.001.0001/actrade-9780199567782.
-- Saffo, Paul. “Six Rules for Effective Forecasting.” Harvard Business Review, July 1, 2007. https://hbr.org/2007/07/six-rules-for-effective-forecasting.
-- Said, Edward W. Orientalism. 1st Vintage Books ed. New York: Vintage Books, 1979. https://catalog.hathitrust.org/Record/000687865?signon=swle:urn:mace:incommon:nyu.edu.
-- Scharff, Robert C., and Val Dusek. Philosophy of Technology: The Technological Condition : An Anthology. 2nd ed. Blackwell Philosophy Anthologies 33. Chichester, West Sussex %3B Malden, MA: Wiley Blackwell, 2014. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=1565910.
-- Schatzberg, Eric. Technology: Critical History of a Concept. Technology. University of Chicago Press. Accessed April 11, 2020. https://www.universitypressscholarship.com/view/10.7208/chicago/9780226584027.001.0001/upso-9780226583839.
-- Schwartz, Hillel. Culture of the Copy: Striking Likenesses, Unreasonable Facsimiles. Revised and Updated edition. New York: Zone Books, 2014. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=3339746.
-- Sebeok, Thomas A. I Think I Am a Verb More Contributions to the Doctrine of Signs. Topics in Contemporary Semiotics Ser. New York, NY: Springer, 2013. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5576035.
-- Sebeok, Thomas, A., and Hilmar M. Pabel. Signs: An Introduction to Semiotics. Toronto Studies in Semiotics and Communication. Toronto ; Buffalo: University of Toronto Press, 2001. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4634643.
-- Seib, Philip. “Why Some Arab Countries Want to Shutter Al Jazeera.” The Conversation. Accessed January 3, 2020. http://theconversation.com/why-some-arab-countries-want-to-shutter-al-jazeera-80600.
-- Sharma, Narinder. Vedic Literature Samhitas And Brahmanas J Gonda. Accessed April 29, 2020. http://archive.org/details/VedicLiteratureSamhitasAndBrahmanasJGonda.
+- ———. Writing and Script: A Very Short Introduction. Writing and Script: A Very Short Introduction. Oxford University Press, n.d. Accessed 26 April 2020.
+- Saffo, Paul. ‘Six Rules for Effective Forecasting’. Harvard Business Review, 1 July 2007. https://hbr.org/2007/07/six-rules-for-effective-forecasting.
+- Said, Edward W. Orientalism. 1st Vintage Books ed. New York: Vintage Books, 1979.
+- Salomon, Frank. ‘The Huarochiri Manuscript: A Testament of Ancient and Colonial Andean Religion’. In The Huarochiri Manuscript. University of Texas Press, 2014. https://doi.org/10.7560/730526.
+- Saxl, Fritz. ‘Beiträge Zu Einer Geschichte Der Planetendarstellungen Im Orient Und Im Okzident.’, 1 January 1912. https://doi.org/10.1515/islm.1912.3.1.151.
+- Scharff, Robert C., and Val Dusek. Philosophy of Technology: The Technological Condition : An Anthology. 2nd ed. Blackwell Philosophy Anthologies 33. Chichester, West Sussex %3B Malden, MA: Wiley Blackwell, 2014.
+- Schatzberg, Eric. Technology: Critical History of a Concept. Technology. University of Chicago Press. Accessed 11 April 2020. https://www.universitypressscholarship.com/view/10.7208/chicago/9780226584027.001.0001/upso-9780226583839.
+- Schwartz, Hillel. Culture of the Copy: Striking Likenesses, Unreasonable Facsimiles. Revised and Updated edition. New York: Zone Books, 2014.
+- Sebeok, Thomas A. I Think I Am a Verb More Contributions to the Doctrine of Signs. Topics in Contemporary Semiotics Ser. New York, NY: Springer, 2013.
+- Sebeok, Thomas, A., and Hilmar M. Pabel. Signs: An Introduction to Semiotics. Toronto Studies in Semiotics and Communication. Toronto ; Buffalo: University of Toronto Press, 2001.
+- Seib, Philip. ‘Why Some Arab Countries Want to Shutter Al Jazeera’. The Conversation. Accessed 3 January 2020. http://theconversation.com/why-some-arab-countries-want-to-shutter-al-jazeera-80600.
+- Shannon, C. E. ‘A Mathematical Theory of Communication’. The Bell System Technical Journal 27, no. 3 (July 1948): 379–423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x.
+- Sharma, Narinder. Vedic Literature Samhitas And Brahmanas J Gonda. Accessed 29 April 2020. http://archive.org/details/VedicLiteratureSamhitasAndBrahmanasJGonda.
 - Smith, Merritt Roe, and Leo Marx. Does Technology Drive History?: The Dilemma of Technological Determinism. Cambridge, Mass.: MIT Press, 1994.
+- Stagecoach. Adventure, Drama, Western. Walter Wanger Productions, 1939.
 - Standage, Tom. The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s on-Line Pioneers. New York: Walker, 2007.
-- Staniforth, Sarah, Arie Wallert, Erma Hermens, Marja Peek, and Erma Hermens. “Historical Painting Techniques, Materials, and Studio Practice.” Studies in Conservation 44, no. 2 (1999): 142. https://doi.org/10.2307/1506726.
-- Steinbach, Stephan F. “Isochrone Map: Austro-Hungarian Empire Railway Network 1912 in English.” Alternative Transport (blog), May 17, 2015. https://alternativetransport.wordpress.com/2015/05/18/isochrone-map-austro-hungarian-empire-railway-network-1912-in-english/.
-- Sterling, Bruce. “The Dead Media Project.” Accessed February 16, 2020. http://www.deadmedia.org/.
-- Steyrl, Hito. “In Defense of the Poor Image.” e-flux Journal, November 2019. https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/.
-- The J. Paul Getty Museum. “The Making of a Medieval Book,” 2003. https://www.getty.edu/art/exhibitions/making/.
-- The Newton Project, Rob Iliffe, and Scott Mandelbrote. “Books in Newton’s Library.” Accessed April 30, 2020. http://www.newtonproject.ox.ac.uk/his-library/books-in-newtons-library.
-- “The_Machine_as_Seen_at_the_End_of_the_Mechanical_Age_1968.Pdf.” Accessed June 14, 2020. https://monoskop.org/images/b/b5/The_Machine_as_Seen_at_the_End_of_the_Mechanical_Age_1968.pdf.
+- Staniforth, Sarah, Arie Wallert, Erma Hermens, Marja Peek, and Erma Hermens. ‘Historical Painting Techniques, Materials, and Studio Practice’. Studies in Conservation 44, no. 2 (1999): 142. https://doi.org/10.2307/1506726.
+- Steinbach, Stephan F. ‘Isochrone Map: Austro-Hungarian Empire Railway Network 1912 in English’. Alternative Transport (blog), 17 May 2015. https://alternativetransport.wordpress.com/2015/05/18/isochrone-map-austro-hungarian-empire-railway-network-1912-in-english/.
+- Sterling, Bruce. ‘The Dead Media Project’. Accessed 16 February 2020. http://www.deadmedia.org/.
+- ———. ‘The Wonderful Power of Storytelling’, 1991. https://lib.misto.kiev.ua/STERLINGB/story.dhtml.
+- Steyrl, Hito. ‘In Defense of the Poor Image’. e-flux Journal, November 2019. https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/.
+- Strasser, Gerhard F. ‘“Encoded“ Communication with Ladies in a Turkish Harem, 17th-Century Style’, 19 May 2020. https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=171&Article_No=2.
+- The J. Paul Getty Museum. ‘The Making of a Medieval Book’, 2003. https://www.getty.edu/art/exhibitions/making/.
+- The Metropolitan Museum of Art. ‘Double-Page Frontispiece from a Kitab al-Diryaq (Book of Antidotes) | The Met’. The Metropolitan Museum of Art. Accessed 13 May 2020. https://www.metmuseum.org/art/collection/search/642359.
+- The Newton Project, Rob Iliffe, and Scott Mandelbrote. ‘Books in Newton’s Library’. Accessed 30 April 2020. http://www.newtonproject.ox.ac.uk/his-library/books-in-newtons-library.
 - Thiel, Peter A. Zero to One: Notes on Startups, or How to Build the Future. London: Virgin Books, 2015.
 - Thompson, Daniel V. The Materials of Medieval Painting. New Haven: Yale University Press, 1936.
-- Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven, UNITED STATES: Yale University Press, 2017. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4849027.
-- Tushyan, Ruchika. “Why We Should Care That 4 out of 5 Software Developers in Seattle Are Male | Produced by Advertising Publications.” The Seattle Times, May 22, 2018. https://www.seattletimes.com/explore/careers/why-we-should-care-that-4-out-5-software-developers-in-seattle-are-male/.
+- Tsamakda, Vasiliki. A Companion to Byzantine Illustrated Manuscripts. A Companion to Byzantine Illustrated Manuscripts. Brill, 2017. https://brill.com/view/title/22986.
+- Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven, UNITED STATES: Yale University Press, 2017.
+- Tushyan, Ruchika. ‘Why We Should Care That 4 out of 5 Software Developers in Seattle Are Male | Produced by Advertising Publications’. The Seattle Times, 22 May 2018. https://www.seattletimes.com/explore/careers/why-we-should-care-that-4-out-5-software-developers-in-seattle-are-male/.
+- Umberto Eco in Conversation with Paul Holdengräber, 2011. https://www.youtube.com/watch?v=DuGpw0-B9-s.
 - Unknown. Codex Dresdensis - Mscr.Dresd.R.310. Edited by SLUB Dresden. Yucatan, 1200. http://digital.slub-dresden.de/id280742827/1.
 - ———. Sogenannte Wiener Genesis. Digitized and Published by Österreichische Nationalbibliothek. Unknown: Österreichische Nationalbibliothek, 6th century. http://data.onb.ac.at/rep/106F8E6A.
 - ———. Splendor Solis (an Alchemical Treatise). The British Library, 1582. http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7881&CollID=8&NStart=3469.
 - Unknown, and Jörg (?) Breu. Splendor Solis Oder Sonnenglanz, 1532. http://www.smb-digital.de/eMuseumPlus?service=direct/1/ResultLightboxView/moduleContextFunctionBar.viewType&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=3&sp=Slightbox_3x4&sp=0&sp=Sdetail&sp=2&sp=F&sp=SdetailView.
-- Wells, Bryan K., and Andreas Fuls. “The Indus Valley Script.” In The Archaeology and Epigraphy of Indus Writing, 4–12. Archaeopress, 2015. https://doi.org/10.2307/j.ctvr43jmf.9.
-- Wierer, Ursula, Simona Arrighi, Stefano Bertola, Günther Kaufmann, Benno Baumgarten, Annaluisa Pedrotti, Patrizia Pernter, and Jacques Pelegrin. “The Iceman’s Lithic Toolkit: Raw Material, Technology, Typology and Use.” PLOS ONE 13, no. 6 (June 20, 2018): e0198292. https://doi.org/10.1371/journal.pone.0198292.
-- Williams, Raymont. Television Technology and Cultural Form. Routledge Classics. London %3B New York: Routledge, 2003. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=182593.
+- Vainstub, Daniel, Madeleine Mumcuoglu, Michael G. Hasel, Katherine M. Hesler, Miriam Lavi, Rivka Rabinovich, Yuval Goren, and Yosef Garfinkel. ‘A Canaanite’s Wish to Eradicate Lice on an Inscribed Ivory Comb from Lachish’. Pp. 76-119 2 (2022): 76–119.
+- Ward, Rachel, ed. Gilded and Enamelled Glass from the Middle East. London: Published for the Trustees of the British Museum by British Museum Press, 1998.
+- Wells, Bryan K., and Andreas Fuls. ‘The Indus Valley Script’. In The Archaeology and Epigraphy of Indus Writing, 10, 2020.
+- Whole Earth 50th Anniversary Celebration, 2018. https://www.youtube.com/watch?v=31mXWZAgCF4.
+- Why Futures Studies: An Interview with Jim Dator. Interview, 2012. https://actionforesight.net/why-futures-studies-an-interview-with-jim-dator/.
+- Wich, Serge A, Karyl B Swartz, Madeleine E Hardus, Adriano R Lameira, Erin Stromberg, and Robert W Shumaker. ‘A Case of Spontaneous Acquisition of a Human Sound by an Orangutan’. Primates 50, no. 1 (January 2009): 56–64. https://doi.org/10.1007/s10329-008-0117-y.
+- Wierer, Ursula, Simona Arrighi, Stefano Bertola, Günther Kaufmann, Benno Baumgarten, Annaluisa Pedrotti, Patrizia Pernter, and Jacques Pelegrin. ‘The Iceman’s Lithic Toolkit: Raw Material, Technology, Typology and Use’. PLOS ONE 13, no. 6 (20 June 2018): e0198292. https://doi.org/10.1371/journal.pone.0198292.
+- Williams, Raymont. Television Technology and Cultural Form. Routledge Classics. London %3B New York: Routledge, 2003.
+- Winters, Clyde. ‘Dravidian Is the Language of the Indus Writing’. Current Science 103, no. 10 (2012): 1220–25. https://www.jstor.org/stable/24089239.
+- Witkam, Jan Just. ‘Course in Islamic Paleography’. Accessed 5 July 2020. http://www.islamicmanuscripts.info/courses/arabic_manuscripts/index.html.
 - Wolmar, Christian. The Iron Road, 2014. http://learning.oreilly.com/library/view/the-iron-road/9781465419538/.
-- Woolgar, Steve. “The Turn to Technology in Social Studies of Science.” Science, Technology, & Human Values 16, no. 1 (January 1991): 20–50. https://doi.org/10.1177/016224399101600102.
+- Woolgar, Steve. ‘The Turn to Technology in Social Studies of Science’. Science, Technology, & Human Values 16, no. 1 (January 1991): 20–50. https://doi.org/10.1177/016224399101600102.
 - Wu, Tim. The Master Switch: The Rise and Fall of Information Empires. Reprint edition. New York: Vintage, 2011.
-- Zorach, Rebecca E. “New Mediaeval Aesthetic.” Wired, January 1, 1994. https://www.wired.com/1994/01/mediaeval/.
-- Zuzao, Lin, Cheng Xiaolan, Susan M. Allen, and Jan Bos. The History and Cultural Heritage of Chinese Calligraphy, Printing and Library Work. Berlin/Boston, GERMANY: De Gruyter, Inc., 2010. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=516519.
+- ZEIT (Archiv), D. I. E. ‘Wie sprach Kaiser Karl mit seinem Pferd?’ Die Zeit, 25 November 1966. https://www.zeit.de/1966/48/wie-sprach-kaiser-karl-mit-seinem-pferd/komplettansicht.
+- Zorach, Rebecca E. ‘New Mediaeval Aesthetic’. Wired, 1 January 1994. https://www.wired.com/1994/01/mediaeval/.
+- Zuzao, Lin, Cheng Xiaolan, Susan M. Allen, and Jan Bos. The History and Cultural Heritage of Chinese Calligraphy, Printing and Library Work. Berlin/Boston, GERMANY: De Gruyter, Inc., 2010. 
 
 
 ***
