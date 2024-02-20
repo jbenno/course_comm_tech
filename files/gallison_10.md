@@ -7,4 +7,4 @@
 - Latour, Bruno, and Steve Woolgar. Laboratory Life: The Construction of Scientific Facts. Edited by Jonas. Salk. Princeton: University Press, 2013.
 - Popper, Karl. The Poverty of Historicism. Routledge, 2013. https://doi.org/10.4324/9780203538012.
 - Filmer, Ann. “How the Mechanical Tomato Harvester Prompted the Food Movement.” Department of Plant Sciences, July 24, 2015. https://www.plantsciences.ucdavis.edu/news/how-mechanical-tomato-harvester-prompted-food-movement.
-- Garutti, Francesco. “Talking About Devious Design.” Canadian Centre for Architecture (CCA). Accessed June 6, 2020. https://www.cca.qc.ca/en/articles/issues/3/technology-sometimes-falls-short/50332/talking-about-devious-design.
+- Garutti, Francesco. “Talking About Devious Design.” Canadian Centre for Architecture (CCA). https://www.cca.qc.ca/en/articles/issues/3/technology-sometimes-falls-short/50332/talking-about-devious-design.
