@@ -5,7 +5,7 @@
 - **Please always put the course title into the subject line!**
 
 ## 2. Assignments
--Reading and watching the provided material is required in advance for each class.
+- Reading and watching the provided material is required in advance for each class.
 - Assigned readings and videos will be discussed in class.
 - Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
 - You find the assignments on Canvas. For your overview on the weekly structure, you may also see the spreadsheet here: https://docs.google.com/spreadsheets/d/1BB6HHULpT9KCe9JpZZn-oI-JxHNpXhhsdp6A8cw8cMM/edit?usp=sharing
