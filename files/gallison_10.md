@@ -1,7 +1,7 @@
 # Material for the ten problems
 - Eriksen, Christoffer Basse. “Circulation of Blood and Money in Leviathan – Hobbes on the Economy of the Body.” In History of Economic Rationalities: Economic Reasoning as Knowledge and Practice Authority, edited by Jakob Bek-Thomsen, Christian Olaf Christiansen, Stefan Gaarsmand Jacobsen, and Mikkel Thorup, 31–41. Ethical Economy. Cham: Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-52815-1_4.
 - Reck, Erich, and Georg Schiemer. “Structuralism in the Philosophy of Mathematics.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Spring 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/spr2020/entries/structuralism-mathematics/.
-- Roland. Barthes. Mythologies. Pierres vives. Paris: Éditions du Seuil, 1957. https://catalog.hathitrust.org/Record/006728212?signon=swle:urn:mace:incommon:nyu.edu.
+- Roland. Barthes. Mythologies. Pierres vives. Paris: Éditions du Seuil, 1957.
 - Qatar Digital Library. “Ars Medica ( Ars Parva ) الصناعة الصغيرة Galen جالينوس With Commentary by Abū al-Faraj ‘Abd Allāh Ibn al-Ṭayyib (أبو الفرج عبد الله بن الطيب) [‎114v] (241/246).” Text, October 21, 2013. https://www.qdl.qa/en/archive/81055/vdc_100023843404.0x000026.
 - Ginsberg, Alexandra Daisy. “Redesigning the Tree of Life.” The Synthetic Kingdom: Designing Evolution (blog), July 10, 2010. https://synthetickingdom.wordpress.com/2010/07/10/redesigning-the-tree-of-life/.
 - Latour, Bruno, and Steve Woolgar. Laboratory Life: The Construction of Scientific Facts. Edited by Jonas. Salk. Princeton: University Press, 2013.
