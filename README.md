@@ -15,8 +15,8 @@ Unless stated otherwise, pdf files for the readings can be found in this Google 
 Please see the page [Administrative Matters](/files/Administrative.md)
 
 ### Readings
-- Briggs, Asa, and Peter Burke. A Social History of the Media: From Gutenberg to the Internet. 3rd ed. Cambridge, UK %3B Malden, MA: Polity, 2009.
-- Crowley, David, and Paul Heyer. Communication in History: Technology, Culture, Society. Old Tappan, UNKNOWN: Taylor & Francis Group, 2010.
+- Briggs, Asa, and Peter Burke. A Social History of the Media: From Gutenberg to the Internet. 3rd ed. Cambridge, UK & Malden, MA: Polity, 2009.
+- Crowley, David, and Paul Heyer. Communication in History: Technology, Culture, Society. Old Tappan: Taylor & Francis Group, 2010.
 - Dumas, Alexander. ‘The Telegraph’. In The Count of Monte Cristo, translated by Anonymous. Chapman and Hall, 1846. https://en.wikisource.org/wiki/The_Count_of_Monte_Cristo/Chapter_60.
 - Dunne, Anthony, and Fiona Raby. Speculative Everything: Design, Fiction, and Social Dreaming. Cambridge, Massachusetts ; London: The MIT Press, 2013.
 - Dusek, Val. Philosophy of Technology: An Introduction. Malden, MA %3B Oxford: Blackwell Pub, 2006.
@@ -38,25 +38,27 @@ The specific readings will be assigned for each week.
 [Spreadsheet with the dates and assignments](https://docs.google.com/spreadsheets/d/1BB6HHULpT9KCe9JpZZn-oI-JxHNpXhhsdp6A8cw8cMM/edit?usp=sharing) 
 
 ### Part I: The story of writing
-#### 0. [Communication](/files/00.md)
-#### 1. [Technology studies](/files/01.md)
-#### 2. [Orality and literacy](/files/02.md)
-#### 3. [The Alphabet](/files/03.md)
+#### 1. [Communication](/files/01.md)
+#### 2. [Technology studies](/files/02.md)
+#### 3. [Orality and literacy](/files/03.md)
+#### 4. [The Alphabet](/files/04.md)
+/
+#### [Interlude: Research and Writing](/files/Research.md
 
 ### Part II: Media: Technology of communication
-#### 4. [Books and libraries](/files/04.md)
-#### 5. [Printing and reproduction](/files/05.md)
-#### 6. [Technology, Progress, and Determinism](/files/06.md)
-#### 7. [Telephone, radio, photography, cinema, and television](/files/07.md)
+#### 5. [Books and libraries](/files/05.md)
+#### 6. [Printing and reproduction](/files/06.md)
+#### 7. [Technology, Progress, and Determinism](/files/07.md)
+#### 8. [Telephone, radio, photography, cinema, and television](/files/08.md)
 
 ### Part III: Interactive media
-#### 8. [Digital media and the internet](/files/08.md)
-#### 9. [Social media and mobile](/files/09.md)
-#### 10. [Art and communication technology](/files/10.md)
+#### 9. [Digital media and the internet](/files/09.md)
+#### 10. [Social media and mobile](/files/10.md)
+#### 11. [Art and communication technology](/files/11.md)
 
 ### Part IV: The future
-#### 11. [Futurism and speculative design](/files/11.md)
-#### 12. [Final project](/files/12.md)
+#### 12. [Futurism and speculative design](/files/12.md)
+#### 13. [Final project](/files/13.md)
 
 
 ***
