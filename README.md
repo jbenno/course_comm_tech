@@ -42,8 +42,8 @@ The specific readings will be assigned for each week.
 #### 2. [Technology studies](/files/02.md)
 #### 3. [Orality and literacy](/files/03.md)
 #### 4. [The Alphabet](/files/04.md)
-/
-#### [Interlude: Research and Writing](/files/Research.md
+
+#### [Interlude: Research and Writing](/files/Research.md)
 
 ### Part II: Media: Technology of communication
 #### 5. [Books and libraries](/files/05.md)
