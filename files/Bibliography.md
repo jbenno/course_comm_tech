@@ -239,6 +239,4 @@
 
 
 ***
-<sup>[&uarr; Back to course home page](/README.md)</sup>  
-  
-<sup>NYU Abu Dhabi ***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+<sup>***[Information and Communication Technologies](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno]((https://mastodon.social/@jbenno)) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
