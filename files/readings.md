@@ -102,7 +102,9 @@ Readings for the course are generally provided as pdf files in this Google Drive
 - Saffo, Paul. “Six Rules for Effective Forecasting.” Harvard Business Review, July 1, 2007. https://hbr.org/2007/07/six-rules-for-effective-forecasting.
 - Sterling, Bruce. Bruce Sterling at The Interval at Long Now | San Francisco. Accessed November 1, 2019. https://theinterval.org/salon-talks/02018/oct/16/how-be-futuristic-bruce-sterling.
 
-- #### Assignments
+***
+
+#### Assignments
 The assignments are listed in newclasses.nyu.edu  
 [Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/1BB6HHULpT9KCe9JpZZn-oI-JxHNpXhhsdp6A8cw8cMM/edit?usp=sharing)  
 
