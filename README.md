@@ -30,7 +30,7 @@ Please see the page [Administrative Matters](/files/Administrative.md)
 - The J. Paul Getty Museum. ‘The Making of a Medieval Book’, 2003. https://www.getty.edu/art/exhibitions/making/.
 - Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven, UNITED STATES: Yale University Press, 2017.
 
-The specific readings will be assigned for each week.
+The specific readings will be assigned for each week. The readings are generally provided as pdf files in this Google Drive folder: https://drive.google.com/drive/folders/1QTE-LNoBto6VDJ6Majes_LZ9A2kqfk7D?usp=sharing Further readings for each week can be found here:
 
 ## Schedule
 *Subject to modification and clarification*
@@ -38,27 +38,37 @@ The specific readings will be assigned for each week.
 [Spreadsheet with the dates and assignments](https://docs.google.com/spreadsheets/d/1BB6HHULpT9KCe9JpZZn-oI-JxHNpXhhsdp6A8cw8cMM/edit?usp=sharing) 
 
 ### Part I: The story of writing
-#### 1. [Communication](/files/01.md)
-#### 2. [Technology studies](/files/02.md)
-#### 3. [Orality and literacy](/files/03.md)
-#### 4. [The Alphabet](/files/04.md)
-
-#### [Interlude: Research and Writing](/files/Research.md)
-
+#### 1. Communication
+What is communication? What is technology? How to study the history and theory of communication and technology? Semiotics: Language and other signs.
+#### 2. Technology studies
+The methods of science and technology studies (STS) applied to the history of communication technologies.
+#### 3. Orality and literacy
+From talking to writing: From prehistory to history; signs that last: The Voyager record and nuclear semiotics. Look at the material here:  [/files/nuclear.md](/files/nuclear.md)
+#### 4. Writing and the alphabet
+Early writing systems: cuneiform, Indus Valley, Proto-Chinese, Hieroglyphs, Mayan writing system; deciphering early scripts and undeciphered sign systems.
+#### Interlude: Research and Writing
+Some useful tools how to find literature, cite papers, and use the software app [Zotero](https://www.zotero.org)
 ### Part II: Media: Technology of communication
-#### 5. [Books and libraries](/files/05.md)
-#### 6. [Printing and reproduction](/files/06.md)
-#### 7. [Technology, Progress, and Determinism](/files/07.md)
-#### 8. [Telephone, radio, photography, cinema, and television](/files/08.md)
+#### 5. Books and libraries
+Scribes and the scriptorium; paper and parchment, scrolls and codices, manuscripts and palimpsests; margins and maculature; the great libraries; paleographic exercise. Look at the material here:  [/files/books.md](/files/books.md)
+#### 6. Printing and reproduction
+Movable type and the printing press; fonts and typesetting; markup; technologies: Jaquard's weaving loom, fountain pen, stencils, matrices, displays, typewriter, Monotype, Linotype; reproduction; printed art.
+#### 7. Technology, Progress, and Determinism
+The idea of progress; technological determinism; semaphore competition.
+#### 8. Media of the industrial age
+Linguistic turn, iconic turn; the publishing industry; new monopolies; dead media; photography and cinema; telegraph; radio; television.
 
 ### Part III: Interactive media
-#### 9. [Digital media and the internet](/files/09.md)
-#### 10. [Social media and mobile](/files/10.md)
-#### 11. [Art and communication technology](/files/11.md)
-
+#### 9. Digital media and the internet
+What is "digital"? The digital machine: Processor, code, memory, output; the protocol: TCP/IP and HTTP; output technologies.
+#### 10. Social media and mobile
+Mobile apps; social networks; business models of interactive media publishers; ethics and politics of digital media.
+#### 11. Art and communication technology
+Digital media as creative tools; a short art history of interactive, digital and conceptual art.
 ### Part IV: The future
-#### 12. [Futurism and speculative design](/files/12.md)
-#### 13. [Final project](/files/13.md)
+#### 12. Futurism and speculative design
+Techniques to understand change and make predictions; futurism; speculative design; science fiction.
+#### 13. Final project
 
 
 ***
