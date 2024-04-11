@@ -18,8 +18,8 @@
 ## 3. Attendance
 - Your attendance in person is expected. If you are sick, you have another important cause preventing you from attending, please send your request to be excused via email.
 - In general, more than one unexcused absence will result in reducing the final grade by one half grade.
-- In general, more than three absences in total will result in failing class. In this case, you may ask for an *incomplete* grade.
-- You are expected to be in the classroom on time. If you are late, your might be noted as absent.
+- In general, more than six absences in total can result in failing class. In this case, you may ask for an *incomplete* grade.
+- You are expected to be in the classroom on time. If you are late, you might be noted as absent.
 
 ## 4. Participation
 - You are expected to participate in class discussions and group assignments.
