@@ -1,4 +1,4 @@
-# Style Guide
+# Guide for Submitting Work
 
 ## Text
 All text can generally be submitted directly via Canvas. 
@@ -20,3 +20,14 @@ You can always use external sources. Using other people's ideas is never plagiar
 - Format your citations following the Chicago Manual of style https://www.chicagomanualofstyle.org/tools_citationguide.html
 - You can use either the "Notes and Bibliography" or the "Auther Date" styles.
 - If you can't find a proper citation for your source, add a footnote and describe how you found your material (e.g. "I remember having read an article ... but can't find it online", etc.)
+
+## Slides, Presentations
+### Title Slide
+Always include a title slide with the following information:
+- Author–i.e. your name
+- Assignment, e.g. the general topic covered in the week of the assignment
+- Title; this is the title of your specific presentation, not the general title of the assignment
+
+### Citations
+Everything you take from other people has to be credited (see 
+
