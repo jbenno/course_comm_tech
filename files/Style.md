@@ -1,7 +1,7 @@
 # Guide for Submitting Work
 
 ## Text
-All text can generally be submitted directly via Canvas. 
+All text can generally be submitted directly via Canvas by pasting it into the text field.
 
 ### Header, Title, Author
 Format your text always starting with a header. 
@@ -29,5 +29,8 @@ Always include a title slide with the following information:
 - Title; this is the title of your specific presentation, not the general title of the assignment
 
 ### Citations
-Everything you take from other people has to be credited (see 
+Everything you take from other people has to be credited (see [above](/files/Style.md#citations) ).
+
+### Images and Videos
+If you use images or videos created by anyone other than yourself, you have to give credit. Best way to cite the creator of an image is to include the name, potential copyright information directly under the image. If you use an image or video you found on the internet, always include the URL, too.
 
