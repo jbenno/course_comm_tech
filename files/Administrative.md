@@ -13,7 +13,7 @@
 - Please submitt your assigned work via Canvas unless stated otherwise.
 - The assignments are due at the date that shows in Canvas. Submitting late will reduce the grade of the assignment by one point.
 - The readings and other media assigned in Canvas are mandatory. Unless stated otherwise, pdf files for the readings can be found in this Google Drive folder:https://drive.google.com/drive/folders/1QTE-LNoBto6VDJ6Majes_LZ9A2kqfk7D?usp=sharing
-- Generally you will have a full week to complete an assignment. You are expected to start the assignment in time. Sending in questions for clarification on the day before the assignment will generally not be sufficient. 
+- Generally you will have a full week to complete an assignment. You are expected to start the assignment in time. Sending in questions for clarification on the day before the assignment is due will generally not be sufficient. 
 
 ## 3. Attendance
 - Your attendance in person is expected. If you are sick, you have another important cause preventing you from attending, please send your request to be excused via email.
