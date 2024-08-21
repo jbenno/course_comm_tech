@@ -17,6 +17,7 @@ Please see the page [Administrative Matters](/files/Administrative.md)
 ### Readings
 - Briggs, Asa, and Peter Burke. A Social History of the Media: From Gutenberg to the Internet. 3rd ed. Cambridge, UK & Malden, MA: Polity, 2009.
 - Crowley, David, and Paul Heyer. Communication in History: Technology, Culture, Society. Old Tappan: Taylor & Francis Group, 2010.
+- Douglas, Frederick. ‘Pictures and Progress: An Address Delivered in Boston, Massachusetts, on December 3, 1861’. Boston, 1861. https://www.loc.gov/item/mss1187900521/. Transcript with annotations: https://frederickdouglasspapersproject.com/item/9106
 - Dumas, Alexander. ‘The Telegraph’. In The Count of Monte Cristo, translated by Anonymous. Chapman and Hall, 1846. https://en.wikisource.org/wiki/The_Count_of_Monte_Cristo/Chapter_60.
 - Dunne, Anthony, and Fiona Raby. Speculative Everything: Design, Fiction, and Social Dreaming. Cambridge, Massachusetts ; London: The MIT Press, 2013.
 - Dusek, Val. Philosophy of Technology: An Introduction. Malden, MA %3B Oxford: Blackwell Pub, 2006.
@@ -31,6 +32,8 @@ Please see the page [Administrative Matters](/files/Administrative.md)
 - Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven, UNITED STATES: Yale University Press, 2017.
 
 The specific readings will be assigned for each week. The readings are generally provided as pdf files in this Google Drive folder: https://drive.google.com/drive/folders/1QTE-LNoBto6VDJ6Majes_LZ9A2kqfk7D?usp=sharing Further readings for each week can be found here:
+
+[Bibliography of all literature used](/files/Bibliography.md)
 
 ## Schedule
 *Subject to modification and clarification*
