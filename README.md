@@ -9,8 +9,6 @@ You may find recorded lectures of a previous version of this class on youtube: [
 Unless stated otherwise, pdf files for the readings can be found in this Google Drive folder:
  https://drive.google.com/drive/folders/1QTE-LNoBto6VDJ6Majes_LZ9A2kqfk7D?usp=sharing
 
-[Bibliography of all literature used](/files/Bibliography.md)
-
 ### Administrative Matters
 Please see the page [Administrative Matters](/files/Administrative.md)
 
