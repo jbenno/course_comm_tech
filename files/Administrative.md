@@ -62,7 +62,7 @@ Participation
 90% Assignments: Preparedness (having actually read/watched the material), timely submission of assignments, quality of work (see rubrics), presenting in class.
 
 ### Rubrics
-50% Effort (submitting a meaningful attempt in time will be honored)
+50% Effort (submitting a meaningful attempt in time, well formatet with citations, headline, summary)
 25% Comprehension (understanding of the material, structure, argumentation)
 25% Criticism (assessing the form, intention, preliminary conditions of the assigned material; questioning the arguments)
 
